@@ -1,8 +1,0 @@
-<html>
-<head>
-	<title>Trung tâm hỗ trợ sinh viên</title>
-</head>
-<body>
-	<a href="http://css.vnu.edu.vn">Visit Trung tâm hỗ trợ sinh viên</a>
-</body>
-</html>
